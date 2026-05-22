@@ -1,2 +1,1 @@
-# aradhya-digital-seva
-ARADHYA DIGITAL SEVA Website
+ARADHYA_DIGITAL_SEVA.index.html
